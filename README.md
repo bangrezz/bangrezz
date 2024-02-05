@@ -19,6 +19,3 @@
 [KUBUNTU]: https://kubuntu.org/
 [ZSH]: https://github.com/zsh-users/zsh
 [VIM]: https://www.vim.org/
-
-<br>
-<img align="left" width=400px height=225px src="https://github-readme-streak-stats.herokuapp.com/?user=bangrezz#version3"/>
